@@ -1,5 +1,3 @@
-# Online-Retail-Store-Analysis
-Sales and Customer Analysis
 # Online-Retail-Store-Sales-and-Customer-Analysis
 The primary objective of this project is to analyze sales and customer behaviour of an online retail store to provide insights that will enable the management team make informed business decisions and enhance marketing strategies.
 
