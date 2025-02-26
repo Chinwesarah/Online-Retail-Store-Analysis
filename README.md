@@ -6,8 +6,7 @@ The data set is a sales transaction data set for a UK-based e-commerce store sel
 ## Tools
 
 Microsoft Excel (Xlookup, Pivot tables and Charts)  
-Link to Microsoft Excel files: [Sales Analysis](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FChinwesarah%2FOnline-Retail-Store-Sales-Analysis%2Fmain%2FOnline%2520retail%2520store_sales%2520analysis.xlsb&wdOrigin=BROWSELINK) and [Customer Analysis](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FChinwesarah%2FOnline-Retail-Store-Sales-Analysis%2Fmain%2FOnline%2520retail%2520store_customer%2520analysis.xlsb&wdOrigin=BROWSELINK)
-
+Link to Microsoft Excel file: https://1drv.ms/x/c/d91bc60cafb7888e/ERh-yhkk5HlFiRo_Z4RVqXABtX5iUuig8g4zTZAHFcw32Q?e=paNbzh
 ## Data Sources
 
 This data was sourced from [Kaggle](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)
