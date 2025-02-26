@@ -6,7 +6,7 @@ The data set is a sales transaction data set for a UK-based e-commerce store sel
 ## Tools
 
 Microsoft Excel (Xlookup, Pivot tables and Charts)  
-Link to Microsoft Excel file [here]([https://1drv.ms/x/c/d91bc60cafb7888e/ERh-yhkk5HlFiRo_Z4RVqXABtX5iUuig8g4zTZAHFcw32Q?e=paNbzh](https://onedrive.live.com/personal/d91bc60cafb7888e/_layouts/15/Doc.aspx?resid=D91BC60CAFB7888E!s19ca7e18e4244579891a3f678455a970&cid=d91bc60cafb7888e&migratedtospo=true&app=Excel)
+Link to Microsoft Excel file [here](https://onedrive.live.com/personal/d91bc60cafb7888e/_layouts/15/Doc.aspx?resid=D91BC60CAFB7888E!s19ca7e18e4244579891a3f678455a970&cid=d91bc60cafb7888e&migratedtospo=true&app=Excel)
 ## Data Sources
 
 This data was sourced from [Kaggle](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)
